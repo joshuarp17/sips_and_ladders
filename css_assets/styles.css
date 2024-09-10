@@ -102,5 +102,39 @@ div{
 
    section h2{
     background-color: green;
-    
+    color: white;
+    margin: 0;
+    padding: 10px;
+
+
    }
+
+   <link rel="stylesheet" href="styles.css"
+
+   body{
+    background-color: rgb{217, 245, 236}
+   }
+
+   div{
+    width: 190px;
+    height: 150px;
+    background-color: rgb{224, 65, 163};
+    border: solid medium black
+    border-radius: 35px;
+    padding: 25px;
+    margin: 15px;
+    }
+
+    #box1{
+        background-color: rgb(red, green, blue);
+        height: 190px;
+        float: left;
+
+    }
+
+#box2, #box3{
+    float: right
+
+}
+
+
